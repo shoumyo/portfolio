@@ -63,6 +63,12 @@
     color: #1DCD9F;
   }
 
+  .aboutHeading{
+    color: white;
+    text-align: center;
+    margin-top: 1.1rem;
+  }
+
   .aboutText{
     padding: 2rem;
     text-align: center;
@@ -75,9 +81,11 @@
     background-color: #1DCD9F;
     width: 100vw;
     height: 100vh;
+  }
+
+  .educationHeading{
     text-align: center;
-    color: #222222;
-    text-shadow: #222222 1rem;
+    padding-top: 1.1rem;
   }
 
 .drmcImg{
