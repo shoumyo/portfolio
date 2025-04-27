@@ -143,3 +143,39 @@
         scale: 100% 1;
       }
     }
+
+    .projectPortion{
+      background-color: #169976;
+      width: 100vw;
+      height: 100vh;
+      text-align: center;
+    }
+    .project{
+      padding: 1.1rem;
+    }
+
+    .achievementAndPrizes{
+      background-color: #1DCD9F;
+      height: 100vh;
+      width: 100vw;
+    }
+
+  .achievement{
+    padding: 2rem 2rem 2rem 2rem;
+    font-size: 1.3rem;
+  }
+
+  .achiHeading{
+    text-align: center;
+    padding-bottom: 1.1rem;
+  }
+
+  .prize{
+    padding: 2rem 2rem 2rem 2rem;
+    font-size: 1.3rem;
+  }
+
+  .priHeading{
+    text-align: center;
+    padding-bottom: 1.1rem;
+  }
