@@ -2,6 +2,12 @@
     margin: 0;
     padding: 0;
 }
+
+body{
+  width: 85%;
+}
+
+
 .upperPortion{
     background-color: black;
     height: 50vh;
@@ -178,4 +184,43 @@
   .priHeading{
     text-align: center;
     padding-bottom: 1.1rem;
+  }
+
+  .contactPortion{
+    background-color: #222222;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+  }
+
+  .contactHeading{
+    text-align: center;
+    padding-top: 2rem;
+    font-size: 3vmax;
+  }
+
+  .upperSection{
+    padding: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .middleSection{
+    padding: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .lowerSection{
+    padding: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .logo{
+    height: 10vmax;
+    width: 10vmax;
   }
